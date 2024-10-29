@@ -9,13 +9,17 @@ import {
   Hero, 
   Navbar, 
   Stats, 
-  Testimonials 
 } from './components'
 import styles from './style'
 
+
+
 const App = () => {
   return (
+
+  
     <div className='bg-primary w-full overflow-hidden'>
+
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth} relative`}>
           <Navbar/>
@@ -32,7 +36,7 @@ const App = () => {
           <Business/>
           <Billing/>
           <AboutUs/>
-          <Testimonials/>
+         
           <Clients/>
           <CTA/>
           <Footer/>     

@@ -27,16 +27,13 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>trrrrrrrrrrrrrrr <br className='sm:block hidden'/>rthrthrthrthrthrthr.</h2>
+        <h2 className={styles.heading2}>Niçin bizi <br className='sm:block hidden'/>seçmelisiniz?.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-         dfdfvdfvdfvdfv
-         dfvdfvdfvdfvdfvdfvdfv
-         dfdffffffffffffffffff
-         dfbbbbbbbbbbbbbbbbbbbbbbbbbbb
-         dfbdfbdfbdfbf
+
         </p>
         <Button styles='mt-10'/>
       </div>
+    
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature, index) => (
           <FeatureCard key={feature.id} {...feature} index={index}/>

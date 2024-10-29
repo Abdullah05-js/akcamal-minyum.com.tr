@@ -11,7 +11,7 @@ const Footer = () => {
               <p className='font-poppins font-normal text-center text-[18px] leading-[27px] text-white'>
                 2024 AK CAM ALÜMİNYUM. Tüm Haklar Saklıdır.
               </p>  
-              <div className='flex flex-row md:mt-0 mt-6'>
+              <div className='flex flex-row md:mt-0 mt-6 '>
                 {SosyalMedia.map((social, index) => (
                   <img
                     src={social.icon}

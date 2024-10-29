@@ -1,6 +1,7 @@
 .container__slider {
     position: relative;
     height:500px;
+    width: 60%;
     overflow: hidden;
     display: flex;
     justify-content: flex-start;

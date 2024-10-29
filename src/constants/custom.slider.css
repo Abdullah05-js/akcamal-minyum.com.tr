@@ -96,8 +96,8 @@
     height: auto;
   }
   
-  @media (min-width: 768px) {
-    .sm\:w-screen {
+  @media (max-width: 768px) {
+    .container__slider {
         width: 100vw;
     }
 }

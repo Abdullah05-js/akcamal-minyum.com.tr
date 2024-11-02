@@ -13,18 +13,18 @@ Alm1,Alm2,AlmD1,ALMK1,ALMK2,ALMK3,CamB1,CamB2,DusK1,DusK2,Giyo1,Giyo2,Giyo3,kisB
 
 
 export const products = [
-  {img:[Alm1, Alm2],name:"ALM CAM KÜPEŞTE",id:0,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[AlmD1],name:"ALM DOĞRAMA",id:1,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[ALMK1,ALMK2,ALMK3],name:"ALM KÜPEŞTE",id:2,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[CamB1,CamB2],name:"CAM BALKON",id:3,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[DusK1,DusK2],name:"DUŞAKABİN",id:4,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[Giyo1,Giyo2,Giyo3],name:"GİYOTİN",id:5,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[kisB1,kisB2,kisB3],name:"KIŞ BAHÇESİ",id:6,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[OfisB1,OfisB2,OfisB3],name:"OFİS BÖLME",id:7,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[Pegola],name:"PEGOLA",id:8,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[PvcD],name:"PVC DOGRAMA",id:9,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[Tente1,Tente2],name:"TENTE",id:10,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"},
-  {img:[TerasK1,TerasK2,TerasK3],name:"TERAS KAPATMA",id:11,content:"dflksndl.bgm slfkmgblfkmg blfsmblsfkmblfk mbslfkmbslfkgmlfkgm sflkgmbflkbgm dmwglmbldwbm ekwldbflm d"}
+  {img:[Alm1, Alm2],name:"ALM CAM KÜPEŞTE",id:0,content:""},
+  {img:[AlmD1],name:"ALM DOĞRAMA",id:1,content:""},
+  {img:[ALMK1,ALMK2,ALMK3],name:"ALM KÜPEŞTE",id:2,content:""},
+  {img:[CamB1,CamB2],name:"CAM BALKON",id:3,content:""},
+  {img:[DusK1,DusK2],name:"DUŞAKABİN",id:4,content:""},
+  {img:[Giyo1,Giyo2,Giyo3],name:"GİYOTİN",id:5,content:""},
+  {img:[kisB1,kisB2,kisB3],name:"KIŞ BAHÇESİ",id:6,content:""},
+  {img:[OfisB1,OfisB2,OfisB3],name:"OFİS BÖLME",id:7,content:""},
+  {img:[Pegola],name:"PEGOLA",id:8,content:""},
+  {img:[PvcD],name:"PVC DOGRAMA",id:9,content:""},
+  {img:[Tente1,Tente2],name:"TENTE",id:10,content:""},
+  {img:[TerasK1,TerasK2,TerasK3],name:"TERAS KAPATMA",id:11,content:""}
 ]
 
 export const navLinks = [

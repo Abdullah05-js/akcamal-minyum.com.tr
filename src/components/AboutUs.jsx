@@ -4,6 +4,7 @@ import Button from './Button'
 import styles, { layout } from '../style'
 
 const AboutUs = () => {
+
   return (
     <section className={layout.section} id='about us'>
       <div className={layout.sectionInfo}>

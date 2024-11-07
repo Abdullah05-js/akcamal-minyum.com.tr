@@ -10,6 +10,7 @@ import ALMK3 from "./ALM KÜPEŞTE 3.jpg"
 
 import CamB1 from "./CAM BALKON 2.jpg"
 import CamB2 from "./CAM BALKON.jpg"
+import CamB0 from "./ab100.png"
 
 import DusK1 from "./DUŞAKABİN 1.webp"
 import DusK2 from "./DUŞAKABİN 2.webp"
@@ -56,7 +57,11 @@ import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 
+import sineklik from "./sineklik.png"
+import sineklik1 from "./sineklik1.jpg"
 
+import cam from "./cam.jpg"
+import cam1 from "./cam1.jpg"
 
 import Urun from "./1.jpg"
 import Data from "./Data.jpg"
@@ -104,4 +109,9 @@ export {
   TerasK1,
   TerasK2,
   TerasK3,
+  sineklik,
+  sineklik1,
+  CamB0,
+  cam,
+  cam1
 };

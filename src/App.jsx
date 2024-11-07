@@ -35,8 +35,8 @@ const additionalKeywords = "alüminyum, alüminyum profil, alüminyum kapı, al�
     <div className='bg-primary w-full overflow-hidden'>
              <Helmet>
             <title>akcamaleminyum</title>
-            <meta content="Alüminyum PVC Fiyatları, Alüminyum mu PVC mi ucuz, PVC Alüminyum DOĞRAMA, Alüminyum doğrama fiyatları, PVC Alüminyum Doğrama iş ilanları, Pvc mi alüminyum mu, En iyi alüminyum doğrama markası Alüminyum Doğrama Markaları" name="keywords"></meta>
-            <meta name="Author" content=""></meta>
+            <meta content="Pratik Sineklik, menteşeli, stor, sürme sineklik sistemleri, sakarya sineklik,Alüminyum PVC Fiyatları, Alüminyum mu PVC mi ucuz, PVC Alüminyum DOĞRAMA, Alüminyum doğrama fiyatları, PVC Alüminyum Doğrama iş ilanları, Pvc mi alüminyum mu, En iyi alüminyum doğrama markası Alüminyum Doğrama Markaları" name="keywords"></meta>
+            <meta name="Author" content="koubook.com.tr"></meta>
             <meta http-equiv="Content-Language" content="tr"></meta>
             <meta name="description" content="Estetik, fonksiyonel ve dayanıklı yapı çözümleri sunan bir platform. Cam balkon, pergola, giyotin cam sistemleri ve daha fazlası." />
             <meta name="keywords" content={services.map(service => service.keywords).join(', ') + ', ' + additionalKeywords} />

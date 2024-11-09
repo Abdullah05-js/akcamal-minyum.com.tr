@@ -34,7 +34,7 @@ const additionalKeywords = "alüminyum, alüminyum profil, alüminyum kapı, al�
   return (
     <div className='bg-primary w-full overflow-hidden'>
              <Helmet>
-            <title>akcamaleminyum</title>
+            <title>Alüminyum Doğrama ve Cephe – AKCAM</title>
             <meta content="Pratik Sineklik, menteşeli, stor, sürme sineklik sistemleri, sakarya sineklik,Alüminyum PVC Fiyatları, Alüminyum mu PVC mi ucuz, PVC Alüminyum DOĞRAMA, Alüminyum doğrama fiyatları, PVC Alüminyum Doğrama iş ilanları, Pvc mi alüminyum mu, En iyi alüminyum doğrama markası Alüminyum Doğrama Markaları" name="keywords"></meta>
             <meta name="Author" content="koubook.com.tr"></meta>
             <meta http-equiv="Content-Language" content="tr"></meta>

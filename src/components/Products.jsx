@@ -16,7 +16,7 @@ const ReturnImg = data.filter((urun) => {
 
 
     return (
-        <div className='bg-primary w-full h-screen flex flex-col justify-center items-center'>
+        <div className='bg-primary  flex flex-col justify-center items-center'>
          
          <div className="flex sm:flex-row flex-col justify-start  items-center w-full">
             

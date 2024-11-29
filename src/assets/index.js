@@ -66,6 +66,19 @@ import cam1 from "./cam1.jpg"
 import Urun from "./1.jpg"
 import Data from "./Data.jpg"
 import akalüminyum from "./akalüminyum.png"
+
+import dm1 from "./dm1.png"
+import dm2 from "./dm2.png"
+import dm3 from "./dm3.png"
+import dm6 from "./dm6.png"
+
+import msc1 from "./msc1.png"
+import msc2 from "./msc2.png"
+import msc3 from "./msc3.png"
+import msc4 from "./msc4.png"
+
+import pr140 from "./pr140.png"
+
 export {
   akalüminyum,
   Urun,
@@ -113,5 +126,10 @@ export {
   sineklik1,
   CamB0,
   cam,
-  cam1
+  cam1,
+dm1,
+dm3,
+dm2,
+msc1,
+msc2,msc3,msc4,dm6,pr140
 };

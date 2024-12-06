@@ -8,8 +8,8 @@ const Hero = () => {
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className='flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2'>
        
-          <a className={`${styles.paragraph} ml-2 animate-pulse sm:text-left text-center `} href="mailto:akcamaleminyum@gmail.com">
-            Bize Ulaşın:<br className='sm:hidden block'/> {" "}akcamaleminyum<br className='sm:hidden block'/>@gmail.com
+          <a className={`${styles.paragraph} ml-2 animate-pulse sm:text-left text-center `} href="mailto:akcamaluminyum@gmail.com">
+            Bize Ulaşın:<br className='sm:hidden block'/> {" "}akcamaluminyum<br className='sm:hidden block'/>@gmail.com
           </a>
         </div>
         <div className='flex flex-row justify-between items-center w-full'>

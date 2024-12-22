@@ -27,7 +27,7 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Niçin bizi <br className='sm:block hidden'/>seçmelisiniz?.</h2>
+        <h2 className="font-poppins font-semibold xs:text-[28px] text-[28px] text-white xs:leading-[76.8px] leading-[66.8px] w-full">Niçin bizi Tercih etmelisiniz?</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
 
         </p>

@@ -10,7 +10,7 @@ const AboutUs = () => {
 
       <div className={layout.sectionInfo}>
 
-        <h2 className={styles.heading2}>2005 yılında temelleri atılan <br className='sm:block hidden'/>AK CAM ALÜMİNYUM;</h2>
+        <h2 className={styles.heading2}>2005 yılında temelleri atılan <br className='sm:block hidden'/>AK CAM ALÜMİNYUM</h2>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           

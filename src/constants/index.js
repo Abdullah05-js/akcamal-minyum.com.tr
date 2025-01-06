@@ -35,7 +35,7 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Hizmetlermiz",
+    title: "Hizmetlerimiz",
   },
   {
     id: "product",
